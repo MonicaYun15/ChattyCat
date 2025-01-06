@@ -1,0 +1,1 @@
+Used tools: vite, mongodb, react, javascript, etc
